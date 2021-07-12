@@ -3,7 +3,7 @@ Conexion a MongoDB Atlas desde NodeJS usando mongoose (mongodb o mongodb+srv)
 
 En 2018 MongoDB ha adquirido a MLab por lo que las cadenas de conexion usualmente utilizadas han cambiado (https://www.silicon.es/mongodb-comprara-mlab-y-su-servicio-de-base-de-datos-en-la-nube-2383965)
 
-Utilizando la información de Platzi (https://platzi.com/clases/backend-js/) e información disponible en Internet, he consolidado las tres decisiones importantes que definen la cadena de conexion y las opciones para Mongoose
+Utilizando la información de Platzi (https://platzi.com/clases/backend-js/) y Udemy(https://www.udemy.com/course/serverless-restful-api-con-nodejs-guia-facil-y-definitiva/) e información disponible en Internet, he consolidado las tres decisiones importantes que definen la cadena de conexion y las opciones para Mongoose
 Se define la funcion "connect" que acepta un unico parametro cuya especificacion es la siguiente
 // var mongoconnect={
 //     user:STRING,             //no codificado
